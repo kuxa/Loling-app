@@ -8,7 +8,6 @@
 	<author email="kuxik009@gmail.com" href="http://kuxa.xyz">
 	   Kuxa
 	</author>
-
+        <gap:plugin name="org.apache.cordova.media"/>
 	<preference name="phonegap-version" value="cli-6.0.0" />
 </widget>
-<gap:plugin name="org.apache.cordova.media"/>
